@@ -1,12 +1,18 @@
 
-((LIVE)) Deployment Site:https://jobs-api-0690.herokuapp.com/
 
-##TO-DO
-1.) Setup Front-end
-2.) Setup Documentation using SwaggerUI
+#### TO-DO
+
+1. Setup Front-end
+2. Setup Documentation using SwaggerUI
 
 
+#### ((LIVE)) Deployment Site
 
+https://jobs-api-0690.herokuapp.com/
+
+#### POST-MAN Published Documentation for JOBS-API
+
+https://documenter.getpostman.com/view/23340119/2s8YK9KR15#intro
 
 #### Setup
 
